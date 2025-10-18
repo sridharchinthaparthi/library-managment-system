@@ -2,6 +2,19 @@
 
 A Python-based library management system with book tracking, member management, and automated fine calculation using functions and recursion.
 
+<div align="center">
+
+### Don't want to clone? No problem! Run it instantly:
+
+[![Open in Codespaces](https://img.shields.io/badge/Open%20in-Codespaces-green?style=for-the-badge&logo=github)](https://codespaces.new/sridharchinthaparthi/library-managment-system)
+
+**Perfect for:**
+- 📱 Mobile browsing - Test from your phone!
+- ⚡ Quick exploration - No setup required
+- 🧪 Experimentation - Fork and modify
+
+</div>
+
 ## Features
 
 - **Book Management**
@@ -35,7 +48,7 @@ A Python-based library management system with book tracking, member management, 
 
 ## Technologies Used
 
-- Python 3.x
+- Python 3.10
 - Functions (modular programming)
 - Recursive functions
 - Dictionary and List data structures
@@ -340,5 +353,6 @@ GitHub: [@sridharchinthaparthi](https://github.com/sridharchinthaparthi)
 This project is open source and available under the MIT License.
 
 ---
+
 
 *Built with Python to practice functions and recursion concepts.*
